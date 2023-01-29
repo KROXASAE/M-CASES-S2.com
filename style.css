@@ -1,0 +1,245 @@
+*{
+    box-sizing: border-box;
+}
+nav{
+    background-color: rgb(8, 9, 83);
+    /* background: url(./fonbrawila.jpg); */
+    position: fixed;
+    width: 100%;
+    text-align: center  ;
+}
+body{
+    margin: 0;
+    font-family: "Poppins", sans-serif;
+}
+nav a{
+    text-decoration: none;
+    padding: 20px 40px;
+    display: inline-block;
+    color: white;
+    transition: all 0.3s;
+}
+nav a:hover{
+    background-color: rgb(21, 104, 152);
+}
+header{
+    text-align: center;
+    padding: 200px 0;
+    background-image: url(../img/header-bg.jpg);
+    background-size: contain;
+
+    background-repeat: no-repeat;
+    background-position: top center;
+    color: white;
+    background-attachment: fixed;
+}
+header a{
+    background-color: white;
+    color: darkgreen;
+    text-decoration: none;
+    padding: 10px 15px;
+    display: inline-block;
+    transition: all 0.4s;
+}
+header a:hover{
+    background-color: greenyellow;
+}
+.company img{
+    float: right;
+    width: 30%;
+}
+.company{
+    max-width: 830px;
+    margin: 0 auto;
+}
+section{
+    padding: 40px 0;
+}
+h2{
+    text-align: center;
+}
+.team{
+    text-align: center;
+}
+.member{
+    width: 20%;
+    min-width: 300px;
+    display: inline-block;
+    box-shadow: 0 0 15px darkgreen;
+    padding: 10px;
+    text-align: left;
+    margin: 10px;
+}
+.member img{
+    width: 100%;
+}
+.position{
+    color: rgb(108, 128, 238);
+}
+/* dlosihugfdokmvfsplmfds,lvfd;f;.vds
+vdlfsovfdmkv;fd.'' */
+.member button{
+    width: 100%;
+    background-color: rgb(108, 128, 238);
+    border: 1px rgb(108, 128, 238);
+    padding: 10px 0;
+    color: darkgreen;
+    transition: all 0.3s;
+    outline: none;
+}
+.member button:hover{
+    background-color: lightgreen;
+    color: orange;
+}
+.tarif{
+    text-align: center;
+    background-color: rgb(0, 0, 0);
+}
+.tarif ul{
+    list-style-type: none;
+    display: inline-block;
+    width: 30%; 
+    min-width: 300px;
+    background-color: white;
+    padding: 0px;
+    box-shadow: 0 0 10px grey;
+    margin: 10px;
+}
+.tarif li{
+    border-bottom: 1px grey solid;
+    padding: 16px 0;
+}
+.name_black{
+    color: orange;
+    background-color: black;
+    padding: 32px 0 !important;
+    font-size: 24px;
+}
+.order button{
+    background-color: green;
+    padding: 12px 34px;
+    border: 1px solid green;
+    font-size: 16px;
+    outline: none;
+}
+.name_yellow{
+    background-color: rgb(108, 128, 238);
+    color:black;
+    font-size: 26px;
+    padding: 34px 0 !important;
+}
+.contacts p{
+    text-align: center;
+}
+.contacts{
+    background-color: rgb(188, 144, 238);
+}
+.contacts_info{
+    text-align: left !important;
+    margin-left: 5%;
+    background-repeat: no-repeat;
+    background-size: 18px;
+    padding-left: 30px;
+    background-position: left center;
+}
+.adres{
+    background-image: url(../img/address.png);   
+}
+.telephone{
+    background-image: url(../img/phone.png);
+}
+.email{
+    background-image: url(../img/mail.png);
+}
+form{
+    text-align: center;  
+}
+input{
+    width: 60%;
+    min-width: 300px;
+    padding: 10px;
+    margin: 5px 0;
+    outline: none;
+    border: 1px solid rgb(108, 128, 238);
+    transition: all 0.3s;
+}
+input:focus{
+    box-shadow: 0 0 10px rgb(108, 128, 238);
+}
+.contacts button{
+    display: block;
+    margin: auto;
+    background-color: rgb(108, 128, 238);
+    border: 1px solid rgb(108, 128, 238);
+    padding: 10px;
+    margin: 10px auto;
+    transition: all 0.3s;
+} 
+.contacts button:hover{
+    background: transparent;
+}
+footer{
+    padding: 20px 0;
+    text-align: center;
+    background-color: rgba(255, 0, 0, 0.241);
+    color: white;
+}
+/* ___________________________________ */
+
+.m4{
+    text-align: center;
+    background-color: rgb(47, 47, 90);
+}
+.m4 ul{
+    list-style-type: none;
+    display: inline-block;
+    width: 30%; 
+    min-width: 300px;
+    background-color: white;
+    padding: 0px;
+    box-shadow: 0 0 10px grey;
+    margin: 10px;
+}
+.m4 li{
+    border-bottom: 1px grey solid;
+    padding: 16px 0;
+}
+
+    /* ___________________________________ */
+    .с{
+        text-align: center;
+        background-color: rgb(43, 43, 60);
+    }
+    .с ul{
+        list-style-type: none;
+        display: inline-block;
+        width: 30%; 
+        min-width: 300px;
+        background-color: rgb(96, 89, 89);
+        padding: 0px;
+        box-shadow: 0 0 10px rgb(255, 255, 255);
+        margin: 10px;
+    }
+    .с li{
+        border-bottom: 1px grey solid;
+        padding: 16px 0;
+    }
+    /* _____________________________ */
+    .vajnoe{
+        text-align: center;
+        background-color: rgb(0, 0, 0);
+    }
+    .vajnoe ul{
+        list-style-type: none;
+        display: inline-block;
+        width: 30%; 
+        min-width: 300px;
+        background-color: rgb(96, 89, 89);
+        padding: 0px;
+        box-shadow: 0 0 10px rgb(255, 255, 255);
+        margin: 10px;
+    }
+    .vajnoe li{
+        border-bottom: 1px grey solid;
+        padding: 16px 0;
+    }

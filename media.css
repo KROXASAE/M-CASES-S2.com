@@ -1,0 +1,15 @@
+@media (max-width:525px) {
+    nav{
+        position: static;
+    }
+    nav a{
+        padding: 10px 20px;
+    }
+    header{
+        padding: 100px 0;
+        background-size: auto;
+    }
+    .company{
+        padding: 10px;
+    }
+}
