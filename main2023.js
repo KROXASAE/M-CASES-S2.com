@@ -2,16 +2,28 @@ const cells = 31
 
 // From 0.001 to 100
 const items = [
-  {name: 'Headphones', img: 'kykrinight.png', chance: 5},
-  {name: 'Headphones', img: 'perch2222.png', chance: 7},
-  {name: 'Headphones', img: 'tantocvv.png', chance: 10},
-  {name: 'Headphones', img: 'dualfiolete.png', chance: 15},
-  {name: 'iPhone', img: 'acidperch.png', chance: 20},
-  {name: 'Headphones', img: 'usp2years.png', chance: 25},
-  {name: 'Headphones', img: 'stickerSakura.png', chance: 29},
-  {name: 'Keyboard', img: 'akrsport.png', chance: 50},
-  {name: 'Headphones', img: 'diglblood.png', chance: 55},
-  {name: 'Headphones', img: 'plkiber.png', chance: 60},
+  // {name: 'Headphones', img: 'kykrinight.png', chance: 5},
+  // {name: 'Headphones', img: 'perch2222.png', chance: 7},
+  // {name: 'Headphones', img: 'tantocvv.png', chance: 10},
+  // {name: 'Headphones', img: 'dualfiolete.png', chance: 15},
+  // {name: 'iPhone', img: 'acidperch.png', chance: 20},
+  // {name: 'Headphones', img: 'usp2years.png', chance: 25},
+  // {name: 'Headphones', img: 'stickerSakura.png', chance: 29},
+  // {name: 'Keyboard', img: 'akrsport.png', chance: 50},
+  // {name: 'Headphones', img: 'diglblood.png', chance: 55},
+  // {name: 'Headphones', img: 'plkiber.png', chance: 60},
+  {name: 'Headphones', img: 'genesis.png', chance: 0.5},
+  {name: 'Headphones', img: 'lither.png', chance: 1},
+  {name: 'Headphones', img: 'frozenglockkk.png', chance: 2},
+  {name: 'Headphones', img: 'winterawm.png', chance: 5},
+  {name: 'iPhone', img: 'vortex228.png', chance: 6},
+  {name: 'Headphones', img: 'vortex.png', chance: 7},
+  {name: 'Headphones', img: 'stonecoldusp.png', chance: 12},
+  {name: 'Keyboard', img: 'kingSNEGOVIK.png', chance: 25},
+  {name: 'Headphones', img: 'polarstik.png', chance: 28},
+  {name: 'Headphones', img: 'elkacharm.png', chance: 36},
+  {name: 'Headphones', img: 'wintermp7.png', chance: 40},
+  {name: 'Headphones', img: 'articmyxa.png', chance: 45}
 ]
 
 function getItem() {

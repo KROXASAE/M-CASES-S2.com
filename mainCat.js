@@ -2,16 +2,28 @@ const cells = 31
 
 // From 0.001 to 100
 const items = [
-  {name: 'Headphones', img: 'AWMSPORT.png', chance: 2},
-  {name: 'Headphones', img: 'otverkaHOT.png', chance: 3},
-  {name: 'Headphones', img: 'CRUNGE.png', chance: 5},
-  {name: 'Headphones', img: 'CHAMPION.png', chance: 7},
-  {name: 'iPhone', img: 'CHGOLD.png', chance: 20},
-  {name: 'Headphones', img: 'CARBON.png', chance: 25},
-  {name: 'Headphones', img: 'RALLYP.png', chance: 29},
-  {name: 'Keyboard', img: 'PISEC.png', chance: 50},
-  {name: 'Headphones', img: 'RAYUSP.png', chance: 55},
-  {name: 'Headphones', img: 'AWMMASTERS.png', chance: 60}
+  {name: 'Headphones', img: 'chpok.png', chance: 1.3},
+  {name: 'Headphones', img: 'm92.png', chance: 2},
+  {name: 'Headphones', img: 'm91.png', chance: 3},
+  {name: 'Headphones', img: 'm93.png', chance: 4},
+  {name: 'iPhone', img: 'm9rjav.png', chance: 4.5},
+  {name: 'Headphones', img: 'TRAKR.png', chance: 8.5},
+  {name: 'Headphones', img: 'krasniyM16.png', chance: 12.9},
+  {name: 'Keyboard', img: 'rail.png', chance: 20},
+  {name: 'Headphones', img: 'necrm4.png', chance: 25},
+  {name: 'Headphones', img: 'neon.png', chance: 40},
+  {name: 'Headphones', img: 'ghoul.png', chance: 50},
+  {name: 'Headphones', img: 'drobDEREVO.png', chance: 59}
+//   krasniyM16.png
+//   drobDEREVO.png
+//   m92.png
+//   m93.png
+//   m91.png
+//   neonpng
+//   ghoul.png
+//   railpns
+//   necrm4png
+//   m9rjav
 ]
 
 function getItem() {

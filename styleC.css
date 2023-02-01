@@ -9,7 +9,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  min-height: 100vh;
+  min-height: 108vh;
   background: #13161a;
   color: white;
 }
@@ -30,7 +30,7 @@ body {
 
 .app {
   position: relative;
-  width: 650px;
+  width: 1000px;
   background: #1b1f24;
   border-radius: 10px;
 }
@@ -99,3 +99,473 @@ body {
 .app .start:hover {
   opacity: 0.8;
 }/*# sourceMappingURL=style.css.map */
+
+/* Предмет1 */
+.Onepredmet{
+  width: 20%;
+  min-width: 300px;
+  display:flex;
+  box-shadow: 0 0 15px darkgreen;
+  padding: 10px;
+  text-align: left;
+  margin: 10px;
+/* --- */
+  position:absolute;
+  z-index: 1;
+  left: 50%;
+  transform: translate3d(-236%, 200px, 0);
+  height: 50px;
+  filter: drop-shadow(0 0 20px rgba(230, 174, 174, 0.3));
+}
+.Onepredmet img{
+  width: 100%;
+}
+.position{
+  color: rgb(108, 128, 238);
+}
+/* dlosihugfdokmvfsplmfds,lvfd;f;.vds
+vdlfsovfdmkv;fd.'' */
+/* .predmet button{
+  width: 100%;
+  background-color: rgb(108, 128, 238);
+  border: 1px rgb(108, 128, 238);
+  padding: 10px 0;
+  color: darkgreen;
+  transition: all 0.3s;
+  outline: none;
+} */
+.Onepredmet button:hover{
+  background-color: lightgreen;
+  color: orange;
+}
+
+/* Предмет2 */
+.Twopredmet{
+  width: 20%;
+  min-width: 300px;
+  display:flex;
+  box-shadow: 0 0 15px darkgreen;
+  padding: 10px;
+  text-align: left;
+  margin: 10px;
+/* --- */
+  position:absolute;
+  z-index: 1;
+  left: 50%;
+  transform: translate3d(-135%, 200px, 0);
+  height: 50px;
+  filter: drop-shadow(0 0 20px rgba(230, 174, 174, 0.3));
+}
+.Twopredmet img{
+  width: 100%;
+}
+.position{
+  color: rgb(108, 128, 238);
+}
+/* dlosihugfdokmvfsplmfds,lvfd;f;.vds
+vdlfsovfdmkv;fd.'' */
+/* .predmet button{
+  width: 100%;
+  background-color: rgb(108, 128, 238);
+  border: 1px rgb(108, 128, 238);
+  padding: 10px 0;
+  color: darkgreen;
+  transition: all 0.3s;
+  outline: none;
+} */
+.Twopredmet button:hover{
+  background-color: lightgreen;
+  color: orange;
+}
+
+/* Предмет3 */
+.Threepredmet{
+  width: 20%;
+  min-width: 300px;
+  display:flex;
+  box-shadow: 0 0 15px darkgreen;
+  padding: 10px;
+  text-align: left;
+  margin: 10px;
+/* --- */
+  position:absolute;
+  z-index: 1;
+  left: 50%;
+  transform: translate3d(-34%, 200px, 0);
+  height: 50px;
+  filter: drop-shadow(0 0 20px rgba(230, 174, 174, 0.3));
+}
+.Threepredmet img{
+  width: 100%;
+}
+.position{
+  color: rgb(108, 128, 238);
+}
+/* dlosihugfdokmvfsplmfds,lvfd;f;.vds
+vdlfsovfdmkv;fd.'' */
+/* .predmet button{
+  width: 100%;
+  background-color: rgb(108, 128, 238);
+  border: 1px rgb(108, 128, 238);
+  padding: 10px 0;
+  color: darkgreen;
+  transition: all 0.3s;
+  outline: none;
+} */
+.Threepredmet button:hover{
+  background-color: lightgreen;
+  color: orange;
+}
+
+/* Предмет4 */
+.Fourpredmet{
+  width: 20%;
+  min-width: 300px;
+  display:flex;
+  box-shadow: 0 0 15px darkgreen;
+  padding: 10px;
+  text-align: left;
+  margin: 10px;
+/* --- */
+  position:absolute;
+  z-index: 1;
+  left: 50%;
+  transform: translate3d(67%, 200px, 0);
+  height: 50px;
+  filter: drop-shadow(0 0 20px rgba(230, 174, 174, 0.3));
+}
+.Fourpredmet img{
+  width: 100%;
+}
+.position{
+  color: rgb(108, 128, 238);
+}
+/* dlosihugfdokmvfsplmfds,lvfd;f;.vds
+vdlfsovfdmkv;fd.'' */
+/* .predmet button{
+  width: 100%;
+  background-color: rgb(108, 128, 238);
+  border: 1px rgb(108, 128, 238);
+  padding: 10px 0;
+  color: darkgreen;
+  transition: all 0.3s;
+  outline: none;
+} */
+.Fourpredmet button:hover{
+  background-color: lightgreen;
+  color: orange;
+}
+
+/* Предмет5 */
+.Fivepredmet{
+  width: 20%;
+  min-width: 300px;
+  display:flex;
+  box-shadow: 0 0 15px darkgreen;
+  padding: 10px;
+  text-align: left;
+  margin: 10px;
+/* --- */
+  position:absolute;
+  z-index: 1;
+  left: 50%;
+  transform: translate3d(-236%, 400%, 0);
+  height: 50px;
+  filter: drop-shadow(0 0 20px rgba(230, 174, 174, 0.3));
+}
+.Fivepredmet img{
+  width: 100%;
+}
+.position{
+  color: rgb(108, 128, 238);
+}
+/* dlosihugfdokmvfsplmfds,lvfd;f;.vds
+vdlfsovfdmkv;fd.'' */
+/* .predmet button{
+  width: 100%;
+  background-color: rgb(108, 128, 238);
+  border: 1px rgb(108, 128, 238);
+  padding: 10px 0;
+  color: darkgreen;
+  transition: all 0.3s;
+  outline: none;
+} */
+.Fivepredmet button:hover{
+  background-color: lightgreen;
+  color: orange;
+}
+
+/* Предмет6 */
+.Sixpredmet{
+  width: 20%;
+  min-width: 300px;
+  display:flex;
+  box-shadow: 0 0 15px darkgreen;
+  padding: 10px;
+  text-align: left;
+  margin: 10px;
+/* --- */
+  position:absolute;
+  z-index: 1;
+  left: 50%;
+  transform: translate3d(-135%, 400%, 0);
+  height: 50px;
+  filter: drop-shadow(0 0 20px rgba(230, 174, 174, 0.3));
+}
+.Sixpredmet img{
+  width: 100%;
+}
+.position{
+  color: rgb(108, 128, 238);
+}
+/* dlosihugfdokmvfsplmfds,lvfd;f;.vds
+vdlfsovfdmkv;fd.'' */
+/* .predmet button{
+  width: 100%;
+  background-color: rgb(108, 128, 238);
+  border: 1px rgb(108, 128, 238);
+  padding: 10px 0;
+  color: darkgreen;
+  transition: all 0.3s;
+  outline: none;
+} */
+.Sixpredmet button:hover{
+  background-color: lightgreen;
+  color: orange;
+}
+
+
+
+/* Предмет7 */
+.Sepredmet{
+  width: 20%;
+  min-width: 300px;
+  display:flex;
+  box-shadow: 0 0 15px darkgreen;
+  padding: 10px;
+  text-align: left;
+  margin: 10px;
+/* --- */
+  position:absolute;
+  z-index: 1;
+  left: 50%;
+  transform: translate3d(-236%, 518%, 0);
+  height: 50px;
+  filter: drop-shadow(0 0 20px rgba(230, 174, 174, 0.3));
+}
+.Sepredmet img{
+  width: 100%;
+}
+.position{
+  color: rgb(108, 128, 238);
+}
+/* dlosihugfdokmvfsplmfds,lvfd;f;.vds
+vdlfsovfdmkv;fd.'' */
+/* .predmet button{
+  width: 100%;
+  background-color: rgb(108, 128, 238);
+  border: 1px rgb(108, 128, 238);
+  padding: 10px 0;
+  color: darkgreen;
+  transition: all 0.3s;
+  outline: none;
+} */
+.Sepredmet button:hover{
+  background-color: lightgreen;
+  color: orange;
+}
+
+/* Предмет8 */
+.Epredmet{
+  width: 20%;
+  min-width: 300px;
+  display:flex;
+  box-shadow: 0 0 15px darkgreen;
+  padding: 10px;
+  text-align: left;
+  margin: 10px;
+/* --- */
+  position:absolute;
+  z-index: 1;
+  left: 50%;
+  transform: translate3d(-135%, 518%, 0);
+  height: 50px;
+  filter: drop-shadow(0 0 20px rgba(230, 174, 174, 0.3));
+}
+.Epredmet img{
+  width: 100%;
+}
+.position{
+  color: rgb(108, 128, 238);
+}
+/* dlosihugfdokmvfsplmfds,lvfd;f;.vds
+vdlfsovfdmkv;fd.'' */
+/* .predmet button{
+  width: 100%;
+  background-color: rgb(108, 128, 238);
+  border: 1px rgb(108, 128, 238);
+  padding: 10px 0;
+  color: darkgreen;
+  transition: all 0.3s;
+  outline: none;
+} */
+.Epredmet button:hover{
+  background-color: lightgreen;
+  color: orange;
+}
+
+/* Предмет9 */
+.Npredmet{
+  width: 20%;
+  min-width: 300px;
+  display:flex;
+  box-shadow: 0 0 15px darkgreen;
+  padding: 10px;
+  text-align: left;
+  margin: 10px;
+/* --- */
+  position:absolute;
+  z-index: 1;
+  left: 50%;
+  transform: translate3d(-34%, 518%, 0);
+  height: 50px;
+  filter: drop-shadow(0 0 20px rgba(230, 174, 174, 0.3));
+}
+.Npredmet img{
+  width: 100%;
+}
+.position{
+  color: rgb(108, 128, 238);
+}
+/* dlosihugfdokmvfsplmfds,lvfd;f;.vds
+vdlfsovfdmkv;fd.'' */
+/* .predmet button{
+  width: 100%;
+  background-color: rgb(108, 128, 238);
+  border: 1px rgb(108, 128, 238);
+  padding: 10px 0;
+  color: darkgreen;
+  transition: all 0.3s;
+  outline: none;
+} */
+.Npredmet button:hover{
+  background-color: lightgreen;
+  color: orange;
+}
+
+/* Предмет10 */
+.Tpredmet{
+  width: 20%;
+  min-width: 300px;
+  display:flex;
+  box-shadow: 0 0 15px darkgreen;
+  padding: 10px;
+  text-align: left;
+  margin: 10px;
+/* --- */
+  position:absolute;
+  z-index: 1;
+  left: 50%;
+  transform: translate3d(67%, 363px, 0);
+  height: 50px;
+  filter: drop-shadow(0 0 20px rgba(230, 174, 174, 0.3));
+}
+.Tpredmet img{
+  width: 100%;
+}
+.position{
+  color: rgb(108, 128, 238);
+}
+/* dlosihugfdokmvfsplmfds,lvfd;f;.vds
+vdlfsovfdmkv;fd.'' */
+/* .predmet button{
+  width: 100%;
+  background-color: rgb(108, 128, 238);
+  border: 1px rgb(108, 128, 238);
+  padding: 10px 0;
+  color: darkgreen;
+  transition: all 0.3s;
+  outline: none;
+} */
+.Tpredmet button:hover{
+  background-color: lightgreen;
+  color: orange;
+}
+
+/* Предмет11 */
+.Opredmet{
+  width: 20%;
+  min-width: 300px;
+  display:flex;
+  box-shadow: 0 0 15px darkgreen;
+  padding: 10px;
+  text-align: left;
+  margin: 10px;
+/* --- */
+  position:absolute;
+  z-index: 1;
+  left: 50%;
+  transform: translate3d(-34%, 400%, 0);
+  height: 50px;
+  filter: drop-shadow(0 0 20px rgba(230, 174, 174, 0.3));
+}
+.Opredmet img{
+  width: 100%;
+}
+.position{
+  color: rgb(108, 128, 238);
+}
+/* dlosihugfdokmvfsplmfds,lvfd;f;.vds
+vdlfsovfdmkv;fd.'' */
+/* .predmet button{
+  width: 100%;
+  background-color: rgb(108, 128, 238);
+  border: 1px rgb(108, 128, 238);
+  padding: 10px 0;
+  color: darkgreen;
+  transition: all 0.3s;
+  outline: none;
+} */
+.Opredmet button:hover{
+  background-color: lightgreen;
+  color: orange;
+}
+
+/* Предмет12 */
+.Dpredmet{
+  width: 20%;
+  min-width: 300px;
+  display:flex;
+  box-shadow: 0 0 15px darkgreen;
+  padding: 10px;
+  text-align: left;
+  margin: 10px;
+/* --- */
+  position:absolute;
+  z-index: 1;
+  left: 50%;
+  transform: translate3d(67%, 400%, 0);
+  height: 50px;
+  filter: drop-shadow(0 0 20px rgba(230, 174, 174, 0.3));
+}
+.Dpredmet img{
+  width: 100%;
+}
+.position{
+  color: rgb(108, 128, 238);
+}
+/* dlosihugfdokmvfsplmfds,lvfd;f;.vds
+vdlfsovfdmkv;fd.'' */
+/* .predmet button{
+  width: 100%;
+  background-color: rgb(108, 128, 238);
+  border: 1px rgb(108, 128, 238);
+  padding: 10px 0;
+  color: darkgreen;
+  transition: all 0.3s;
+  outline: none;
+} */
+.Dpredmet button:hover{
+  background-color: lightgreen;
+  color: orange;
+}

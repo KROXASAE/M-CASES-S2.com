@@ -2,9 +2,9 @@ const cells = 31
 
 // From 0.001 to 100
 const items = [
-  {name: 'Headphones', img: 'GOLDK.png', chance: 2},
-  {name: 'Headphones', img: 'TRAWM.png', chance: 3},
-  {name: 'Headphones', img: 'TRAKR.png', chance: 6},
+  {name: 'Headphones', img: 'GOLDK.png', chance: 0.5},
+  {name: 'Headphones', img: 'TRAWM.png', chance: 1},
+  {name: 'Headphones', img: 'TRAKR.png', chance: 1.5},
   {name: 'Headphones', img: 'NESTGL.png', chance: 11},
   {name: 'iPhone', img: 'BOOMAWM.png', chance: 18},
   {name: 'Headphones', img: 'M4SAM.png', chance: 22},

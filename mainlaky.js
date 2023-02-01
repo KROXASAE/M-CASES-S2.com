@@ -2,16 +2,30 @@ const cells = 31
 
 // From 0.001 to 100
 const items = [
-  {name: 'Headphones', img: 'AWMSPORT.png', chance: 2},
-  {name: 'Headphones', img: 'otverkaHOT.png', chance: 3},
-  {name: 'Headphones', img: 'CRUNGE.png', chance: 5},
-  {name: 'Headphones', img: 'CHAMPION.png', chance: 7},
-  {name: 'iPhone', img: 'CHGOLD.png', chance: 20},
-  {name: 'Headphones', img: 'CARBON.png', chance: 25},
-  {name: 'Headphones', img: 'RALLYP.png', chance: 29},
-  {name: 'Keyboard', img: 'PISEC.png', chance: 50},
-  {name: 'Headphones', img: 'RAYUSP.png', chance: 55},
-  {name: 'Headphones', img: 'AWMMASTERS.png', chance: 60}
+//   {name: 'Headphones', img: 'GOLDK.png', chance: 2},
+//   {name: 'Headphones', img: 'skul.png', chance: 2.1},
+//   {name: 'Headphones', img: 'TRAWM.png', chance: 2.3},
+//   {name: 'Headphones', img: 'm9molniya.png', chance: 2},
+//   {name: 'Headphones', img: 'm9rjav.png', chance: 3.5},
+//   {name: 'Headphones', img: 'retroperch.png', chance: 5},
+//   {name: 'iPhone', img: 'blackVbab.png', chance: 7},
+//   {name: 'Headphones', img: 'scrkaram.png', chance: 11},
+//   {name: 'Headphones', img: 'luxury.png', chance: 15},
+//   {name: 'Keyboard', img: 'jaws.png', chance: 25},
+//   {name: 'Headphones', img: 'orochi.png', chance: 50},
+//   {name: 'Headphones', img: 'CARBON.png', chance: 55}
+    {name: 'Headphones', img: 'skul.png', chance: 2},
+    {name: 'Headphones', img: 'GOLDK.png', chance: 2.1},
+    {name: 'Headphones', img: 'TRAWM.png', chance: 2.3},
+    {name: 'Headphones', img: 'm9molniya.png', chance: 2},
+    {name: 'Headphones', img: 'm9rjav.png', chance: 3.5},
+    {name: 'Headphones', img: 'retroperch.png', chance: 5},
+    {name: 'iPhone', img: 'orangPERCH', chance: 6},
+    {name: 'Headphones', img: 'scrkaram.png', chance: 7},
+    {name: 'Headphones', img: 'luxury.png', chance: 13},
+    {name: 'Keyboard', img: 'jaws.png', chance: 15},
+    {name: 'Headphones', img: 'orochi.png', chance: 35},
+    {name: 'Headphones', img: 'CARBON.png', chance: 45}
 ]
 
 function getItem() {

@@ -2,7 +2,7 @@
     box-sizing: border-box;
 }
 nav{
-    background-color: rgb(8, 9, 83);
+    background-color: rgb(37, 37, 37);
     /* background: url(./fonbrawila.jpg); */
     position: fixed;
     width: 100%;
@@ -20,7 +20,7 @@ nav a{
     transition: all 0.3s;
 }
 nav a:hover{
-    background-color: rgb(21, 104, 152);
+    background-color: rgba(255, 255, 255, 0.614);
 }
 header{
     text-align: center;
@@ -243,3 +243,255 @@ footer{
         border-bottom: 1px grey solid;
         padding: 16px 0;
     }
+
+
+
+
+    /* _____________________________ПАСХАЛКИ */
+
+    .pasxalka{
+        /* width: 20%;
+        min-width: 300px;
+        display:flex;
+        box-shadow: 0 0 15px darkgreen;
+        padding: 10px;
+        text-align: left;
+        margin: 10px; */
+      /* --- */
+        position:absolute;
+        z-index: 1;
+        left: 50%;
+        transform: translate3d(-188%, -800%, 0);
+        height: 50px;
+        filter: drop-shadow(0 0 20px rgba(230, 174, 174, 0.3));
+      }
+      .pasxalka img{
+        width: 8.5%;
+      }
+      /* .position{
+        color: rgb(108, 128, 238);
+      } */
+      /* dlosihugfdokmvfsplmfds,lvfd;f;.vds
+      vdlfsovfdmkv;fd.'' */
+      /* .predmet button{
+        width: 100%;
+        background-color: rgb(108, 128, 238);
+        border: 1px rgb(108, 128, 238);
+        padding: 10px 0;
+        color: darkgreen;
+        transition: all 0.3s;
+        outline: none;
+      } */
+      .pasxalka button:hover{
+        background-color: lightgreen;
+        color: orange;
+      }
+      /* _____________ */
+      .TWOpasxalka{
+        /* width: 20%;
+        min-width: 300px;
+        display:flex;
+        box-shadow: 0 0 15px darkgreen;
+        padding: 10px;
+        text-align: left;
+        margin: 10px; */
+      /* --- */
+        position:absolute;
+        z-index: 1;
+        left: 50%;
+        transform: translate3d(88%, -800%, 0);
+        height: 50px;
+        filter: drop-shadow(0 0 20px rgba(230, 174, 174, 0.3));
+      }
+      .TWOpasxalka img{
+        width: 8.5%;
+      }
+      /* .position{
+        color: rgb(108, 128, 238);
+      } */
+      /* dlosihugfdokmvfsplmfds,lvfd;f;.vds
+      vdlfsovfdmkv;fd.'' */
+      /* .predmet button{
+        width: 100%;
+        background-color: rgb(108, 128, 238);
+        border: 1px rgb(108, 128, 238);
+        padding: 10px 0;
+        color: darkgreen;
+        transition: all 0.3s;
+        outline: none;
+      } */
+      .TWOpasxalka button:hover{
+        background-color: lightgreen;
+        color: orange;
+      }
+
+
+
+      /* ___________________________NEWknopki */
+      .new{
+        /* width: 20%;
+        min-width: 300px;
+        display:flex;
+        box-shadow: 0 0 15px darkgreen;
+        padding: 10px;
+        text-align: left;
+        margin: 10px; */
+      /* --- */
+        position:absolute;
+        z-index: 1;
+        left: 50%;
+        transform: translate3d(-1750%, -1630%, 0);
+        height: 50px;
+        filter: drop-shadow(0 0 20px rgba(230, 174, 174, 0.3));
+      }
+      .new img{
+        width: 8.5%;
+      }
+      .position{
+        color: rgb(255, 0, 0);
+      }
+      /* dlosihugfdokmvfsplmfds,lvfd;f;.vds
+      vdlfsovfdmkv;fd.'' */
+      /* .predmet button{
+        width: 100%;
+        background-color: rgb(108, 128, 238);
+        border: 1px rgb(108, 128, 238);
+        padding: 10px 0;
+        color: darkgreen;
+        transition: all 0.3s;
+        outline: none;
+      } */
+      .new button:hover{
+        background-color: lightgreen;
+        color: orange;
+      }
+
+
+
+
+
+
+      .tnew{
+        /* width: 20%;
+        min-width: 300px;
+        display:flex;
+        box-shadow: 0 0 15px darkgreen;
+        padding: 10px;
+        text-align: left;
+        margin: 10px; */
+      /* --- */
+        position:absolute;
+        z-index: 1;
+        left: 50%;
+        transform: translate3d(-590%, -1630%, 0);
+        height: 50px;
+        filter: drop-shadow(0 0 20px rgba(230, 174, 174, 0.3));
+      }
+      .tnew img{
+        width: 8.5%;
+      }
+      .position{
+        color: rgb(255, 0, 0);
+      }
+      /* dlosihugfdokmvfsplmfds,lvfd;f;.vds
+      vdlfsovfdmkv;fd.'' */
+      /* .predmet button{
+        width: 100%;
+        background-color: rgb(108, 128, 238);
+        border: 1px rgb(108, 128, 238);
+        padding: 10px 0;
+        color: darkgreen;
+        transition: all 0.3s;
+        outline: none;
+      } */
+      .tnew button:hover{
+        background-color: lightgreen;
+        color: orange;
+      }
+
+
+
+
+      .hnew{
+        /* width: 20%;
+        min-width: 300px;
+        display:flex;
+        box-shadow: 0 0 15px darkgreen;
+        padding: 10px;
+        text-align: left;
+        margin: 10px; */
+      /* --- */
+        position:absolute;
+        z-index: 1;
+        left: 50%;
+        transform: translate3d(556%, -1630%, 0);
+        height: 50px;
+        filter: drop-shadow(0 0 20px rgba(230, 174, 174, 0.3));
+      }
+      .hnew img{
+        width: 8.5%;
+      }
+      .position{
+        color: rgb(255, 0, 0);
+      }
+      /* dlosihugfdokmvfsplmfds,lvfd;f;.vds
+      vdlfsovfdmkv;fd.'' */
+      /* .predmet button{
+        width: 100%;
+        background-color: rgb(108, 128, 238);
+        border: 1px rgb(108, 128, 238);
+        padding: 10px 0;
+        color: darkgreen;
+        transition: all 0.3s;
+        outline: none;
+      } */
+      .hnew button:hover{
+        background-color: lightgreen;
+        color: orange;
+      }
+
+
+
+
+
+      /* _________________________avatar */
+
+
+
+      .ava{
+        /* width: 20%;
+        min-width: 300px;
+        display:flex;
+        box-shadow: 0 0 15px darkgreen;
+        padding: 10px;
+        text-align: left;
+        margin: 10px; */
+      /* --- */
+        position:absolute;
+        z-index: 1;
+        left: 50%;
+        transform: translate3d(-155%, -4045%, 0);
+        height: 50px;
+        filter: drop-shadow(0 0 20px rgba(230, 174, 174, 0.3));
+      }
+      .ava img{
+        width: 35%;
+      }
+      .position{
+        color: rgb(255, 0, 0);
+      }
+      /* dlosihugfdokmvfsplmfds,lvfd;f;.vds
+      vdlfsovfdmkv;fd.'' */
+      /* .predmet button{
+        width: 100%;
+        background-color: rgb(108, 128, 238);
+        border: 1px rgb(108, 128, 238);
+        padding: 10px 0;
+        color: darkgreen;
+        transition: all 0.3s;
+        outline: none;
+      } */
+      .ava button:hover{
+        background-color: lightgreen;
+        color: orange;
+      }

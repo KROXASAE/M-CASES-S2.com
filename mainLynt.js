@@ -4,13 +4,13 @@ const cells = 31
 const items = [
   {name: 'Headphones', img: 'HARMONY.png', chance: 0.5},
   {name: 'iPhone', img: 'relic.png', chance: 1},
-  {name: 'Headphones', img: 'perchbzpink.png', chance: 10},
-  {name: 'iPhone', img: 'joy.png', chance: 15},
-  {name: 'Headphones', img: 'perchbzBLUE.png', chance: 20},
+  {name: 'Headphones', img: 'perchbzpink.png', chance: 6},
+  {name: 'iPhone', img: 'joy.png', chance: 7},
+  {name: 'Headphones', img: 'perchbzBLUE.png', chance: 10},
   {name: 'Headphones', img: 'mgirl.png', chance: 25},
   {name: 'Headphones', img: 'sysiRASTR.png', chance: 29},
-  {name: 'Headphones', img: 'myachgr.png', chance: 50},
-  {name: 'Keyboard', img: 'scale.png', chance: 51}
+  {name: 'Headphones', img: 'myachgr.png', chance: 39},
+  {name: 'Keyboard', img: 'scale.png', chance: 50}
 ]
 
 function getItem() {
