@@ -340,7 +340,7 @@ footer{
         position:absolute;
         z-index: 1;
         left: 50%;
-        transform: translate3d(-1750%, -1630%, 0);
+        transform: translate3d(-1750%, -1500%, 0);
         height: 50px;
         filter: drop-shadow(0 0 20px rgba(230, 174, 174, 0.3));
       }
